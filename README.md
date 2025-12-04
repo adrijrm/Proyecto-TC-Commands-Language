@@ -16,3 +16,7 @@ Este programa valida comandos simples siguiendo una gramática formal definida e
 ## Ejecutar el validador
 bash
 python src/main.py
+
+## Ejecutar pruebas 
+bash 
+python -m unittest discover -s tests
