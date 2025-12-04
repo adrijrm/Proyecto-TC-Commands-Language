@@ -1,0 +1,5 @@
+find
+replace:old
+delete:abc
+find:hello:
+replace:x:y:z
