@@ -1,0 +1,6 @@
+find:hello
+find:a1b2
+replace:old:new
+replace:x:y
+delete:123
+delete:5
